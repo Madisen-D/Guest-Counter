@@ -15,15 +15,23 @@ This is a completed work.
 
 How to:
 -Link JavaScript file to html using the script tag  (<script src="index.js"></script>)
+
 -Add the onclick event in html using "onclick="function()""
+
 -Create variables using "let =  "
+
 -Create functions using "function increment()"
+
 -Call functions using console.log
+
 -Strings and Numbers
+
 -Incrementing and decrementing using JavaScript 
   - -= and +=
+
 -DOM - Document Object Model - pull HTML elements into JavaScript to make them interactive
   - document.getElementById
+
 -JavaScript is written in CamelCase with the first word being lowercase
 
 🟢What went well
